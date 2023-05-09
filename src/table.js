@@ -11,7 +11,7 @@ export default {
         { label: '地址', prop: 'address', width: 300 },
         { label: '邮编', prop: 'zip' },
         {
-          label: 'v-model',
+          label: '姓名',
           render: (h, scope) => {
             return h('input', {
               on: {
