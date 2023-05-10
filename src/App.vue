@@ -3,7 +3,7 @@
     <el-container>
       <el-aside width="150px">
         <div id="nav">
-          <router-link to="/">举例</router-link>
+          <router-link to="/">表格举例</router-link>
           <router-link to="/scene">场景试用</router-link>
           <router-link to="/try">试用</router-link>
         </div>
